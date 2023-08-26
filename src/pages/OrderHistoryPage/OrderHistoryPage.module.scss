@@ -1,0 +1,19 @@
+.OrderHistoryPage {
+    height: 100%;
+    display: grid;
+    grid-template-columns: 1.2fr 3.5fr 3fr;
+    grid-template-rows: 1fr;
+    background-color: rgb(210, 155, 216);
+    color: rgb(252, 251, 251);
+    border-radius: 2vmin;
+    border-color: rgba(87, 92, 92, 0.401);
+    font-family: 'Metal Mania';
+  }
+  
+  .OrderHistoryPage .aside {
+    display:grid;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin: 3vmin 2vmin;
+  }

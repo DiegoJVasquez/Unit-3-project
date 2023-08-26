@@ -1,0 +1,18 @@
+.AuthPage {
+    height: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-image: url('https://hdqwalls.com/wallpapers/minimalist-mountains-19.jpg');
+    //background-color: black;
+    border-radius: 2vmin;
+    font-family: 'Rubik Iso';
+  }
+  
+  .AuthPage h3 {
+    margin-top: 4vmin;
+    text-align: center;
+    color: rgb(242, 230, 230);
+    cursor: pointer;
+    font-family: 'Rubik Iso';
+  }
